@@ -1,1 +1,1 @@
-# Pacman---JavaScript
+# Pacman-JavaScript
